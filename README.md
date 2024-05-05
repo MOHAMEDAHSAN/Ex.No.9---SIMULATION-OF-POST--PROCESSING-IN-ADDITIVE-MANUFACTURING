@@ -1,4 +1,6 @@
 # Ex.No:6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+### Name: S MOHAMED AHSAN
+### Register Number:212223240089
 
 ### DATE: 27/04/2024
 
@@ -48,8 +50,6 @@
 ## Output:
 ![Screenshot 2024-04-27 133218](https://github.com/nithish467/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150232274/6387bb82-aea7-4679-a7a3-e0a492ea792d)
 
-### Name:JAI SURYA R
-### Register Number:212223230084
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
